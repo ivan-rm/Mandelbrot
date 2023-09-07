@@ -1,4 +1,5 @@
 # This program plots the Mandelbrot set on the screen using the Pillow library
+# Escape time algorithm used for creating the image
 
 from PIL import Image, ImageDraw
 from mandelbrot import mandelbrot, MAX_ITER
