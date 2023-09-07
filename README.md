@@ -1,2 +1,2 @@
 # Mandelbrot
-Plotting the mandelbrot set using different programming languages
+Plotting the Mandelbrot set using different programming languages.
